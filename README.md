@@ -1,8 +1,8 @@
-.# 𝐙𝐀𝐌𝐔𝐄𝐋 𝐕𝐎𝐋𝐃𝐄𝐌𝐎𝐑𝐃 𝐕𝐈𝐃𝐀𝐂𝐎𝐕𝐈𝐂𝐊 𝐋𝐀𝐂𝐇𝐑𝐘𝐌𝐎𝐒𝐄 𝐈𝐃 ⸙.
+𝐙𝐀𝐌𝐔𝐄𝐋 𝐕𝐎𝐋𝐃𝐄𝐌𝐎𝐑𝐃 𝐕𝐈𝐃𝐀𝐂𝐎𝐕𝐈𝐂𝐊 𝐋𝐀𝐂𝐇𝐑𝐘𝐌𝐎𝐒𝐄 𝐈𝐃 ⸙.
 
  
 
-     .. 🔰 PANTAD BABI BERSINAR🔰.. 
+              .. 🔰 PANTAD BABI BERSINAR🔰.. 
 
   
 
@@ -13,10 +13,6 @@
 <p align="center">
       CRACK ACCOUNT FACEBOOK COEG
 </p>
-
-
-
-![20200808_160757](https://github.com/James404-cyber/HACKPR/blob/main/20211023_232432.png)
 
 
 ## <b>installation</b>
