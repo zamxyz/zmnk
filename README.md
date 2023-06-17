@@ -10,38 +10,36 @@
 
 <h2 align="center"> FACEBOOK CRACKING TOOL </h2>
 
-<p align="center">
-      CRACK ACCOUNT FACEBOOK COEG
 </p>
 
 
-## <b>installation</b>
+## <b>》 INSTALLATION</b>
 
 ```
  pkg update && upgrade
+
  pkg install python
+
  pkg install rich
+
  pip install requests
+
  pip install mechanize
+
  pkg install git
- git clone https://github.com/zamxyz/zmnk
- cd zmnk
- python z.py
-```
-# <b>installation</b>
 
-```
- cd
- rm -rf zmnk
- pkg install wget
  git clone https://github.com/zamxyz/zmnk
+
  cd zmnk
+
  python z.py
 ```
 
-# Single Command 
+## <b>》 Single Command <b>
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/zamxyz/zmnk ; cd zmnk ; python z.py
 ```
- [PLEASE DON’T TRY TO RECODE]
+
+
+ <b>[PLEASE DON’T TRY TO RECODE]<b>
